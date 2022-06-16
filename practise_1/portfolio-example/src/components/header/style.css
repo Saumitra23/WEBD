@@ -1,0 +1,11 @@
+.el_1 {
+  position: fixed;
+  display: block;
+  font-size: x-large;
+  padding: 30px 1230px 50px 100px;
+  color: RGB(89, 66, 122);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  /* padding: 30px 100px; */
+  background-color: #e1b7bf;
+}
