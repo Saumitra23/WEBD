@@ -7,11 +7,12 @@ const ExpenseItem = (props) => {
   const [expenseTitle, setTitle] = useState(props.eT);
 
   const expenseAmount = props.eA;
-
+  // console.log(props.eT);
   const clickHandler = () => {
     // expenseTitle = "changed";
+    // console.log(expenseTitle);
     setTitle("Changed!!!");
-    console.log(expenseTitle);
+    // console.log(expenseTitle);
   };
 
   const handleMouseEnter = (event) => {

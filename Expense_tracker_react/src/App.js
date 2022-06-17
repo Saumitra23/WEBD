@@ -6,12 +6,13 @@ const App = () => {
     <div className="App">
       <h1
         style={{
-          display: "inline",
+          display: "block",
           padding: "10px",
           fontWeight: "bolder",
+          textAlign: "center"
         }}
       >
-        Let's get started!
+        Expense Tracker
       </h1>
       <Card />
     </div>

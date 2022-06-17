@@ -5,9 +5,9 @@ import ExpenseFilter from "../Expenses/ExpenseFilter";
 import { useState } from "react";
 
 const dummy = [
-  { title: "Car Insurance", amount: 5000, date: new Date(2022, 5, 5) },
-  { title: "Life Insurance", amount: 9000, date: new Date(2022, 5, 6) },
-  { title: "Medical Insurance", amount: 7000, date: new Date(2022, 5, 7) },
+  { title: 'Car Insurance', amount: 5000, date: new Date(2022, 5, 5) },
+  { title: 'Life Insurance', amount: 9000, date: new Date(2022, 5, 6) },
+  { title: 'Medical Insurance', amount: 7000, date: new Date(2022, 5, 7) },
 ];
 
 const Card = () => {
