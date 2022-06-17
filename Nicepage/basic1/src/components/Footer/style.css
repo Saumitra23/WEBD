@@ -1,0 +1,18 @@
+.test {
+  position: relative;
+  display: flex;
+  color: white;
+  justify-content: space-between;
+  padding: 100px 150px;
+  background-color: RGB(254, 126, 201);
+}
+
+.test::after {
+  position: absolute;
+  content: "Have a great day!!!";
+  top: 220px;
+  color: white;
+  left: 0;
+  padding: 70px 650px;
+  background-color: black;
+}

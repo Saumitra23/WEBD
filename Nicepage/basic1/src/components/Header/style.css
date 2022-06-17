@@ -1,0 +1,20 @@
+header {
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 100px;
+  margin-top: 30px;
+  text-transform: uppercase;
+}
+
+.head_1 {
+  color: RGB(254, 126, 201);
+}
+.head_2 {
+  font-size: large;
+  font-weight: light;
+  gap: 80px;
+  display: flex;
+  align-items: center;
+  margin-right: 100px;
+}
