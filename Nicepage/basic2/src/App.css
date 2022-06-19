@@ -1,13 +1,12 @@
-header{
-  position: fixed;
-  display: flex;
-  margin: 0 100px;
+.head{
+  font-size: 50px;
+  margin-left: 100px;
+  padding-top: 20px;
 }
-
 .main{
-  position: fixed;
-  margin-top: 100px;
+  margin-top: 50px;
   display: flex;
+  gap: 50px;
   /* margin: 100px 100px 0 100px; */
 }
 
@@ -22,25 +21,43 @@ header{
 form {
 margin-right: 100px;
 display: flex;
-gap: 50px;
+gap: 20px;
 flex-direction: column;
 }
 
+button{
+  cursor: pointer;
+  font-size: larger;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 30px;
+  padding: 10px 30px;
+}
 form input{
+    font-family: 'Times New Roman', Times, serif;
 padding-left: 10px;
-height: 50px;
+height: 40px;
 font-size: large;
 border: none;
 background-color: rgb(238, 232, 232);
 }
 
+form textarea{
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 10px;
+    height: 100px;
+    padding-top: 10px;
+    font-size: large;
+    border: none;
+    background-color: rgb(238, 232, 232);
+}
 /* Position and sizing of burger button */
 .bm-burger-button {
   position: fixed;
   width: 30px;
   height: 30px;
   right: 36px;
-  top: 20px;
+  top: 35px;
 }
 
 /* Color/shape of burger icon bars */
@@ -102,4 +119,9 @@ Note: Beware of modifying this element as it can break the animations - you shou
 /* Styling of overlay */
 .bm-overlay {
   background: rgba(0, 0, 0, 0.3);
+}
+
+.icons{
+  display: flex;
+  gap: 10px;
 }
