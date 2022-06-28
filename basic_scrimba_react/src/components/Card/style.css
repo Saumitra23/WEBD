@@ -1,0 +1,25 @@
+.card{
+    background-color: #282d35;
+    width: 600px;
+    height: 400px;
+}
+h1{
+    padding: 40px 20px 20px 20px;
+    color: white;
+}
+ul{
+    list-style: none;
+    padding-left: 40px;
+}
+
+ul li::before{
+    content: "\2022";
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bold;
+    color: RGB(1, 206, 243);
+    padding-right: 10px;
+}
+li{
+    color: white;
+}

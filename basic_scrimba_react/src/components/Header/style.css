@@ -1,0 +1,18 @@
+.head{
+    margin-top: 40px;
+    display: flex;
+    align-items: auto;
+    background-color:#21222a ;
+    padding: 20px 20px;
+}
+.el_2{
+    margin-left: 20px;
+    font-size: larger;
+    color: RGB(1, 206, 243);
+    font-weight: bolder;
+}
+.el_3{
+    align-self: center;
+    color: white;
+    margin-left: 230px;
+}
