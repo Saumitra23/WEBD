@@ -12,7 +12,7 @@ const Header = () => {
         ></img>
       </div>
       <h3 className="el_2">ReactFacts</h3>
-      <h4 className="el_3">React Course - Project 1</h4>
+      <h4 className="el_3">@Shukla_23</h4>
     </div>
   );
 };

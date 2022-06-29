@@ -4,7 +4,8 @@
   height: 459px;
 }
 h1 {
-  padding: 40px 20px 20px 20px;
+  position: relative;
+  padding: 57px 99px 46px 27px;
   color: white;
 }
 ul {
@@ -15,11 +16,24 @@ ul {
 ul li::before {
   content: "\2022";
   display: inline-block;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;
   color: RGB(1, 206, 243);
   padding-right: 10px;
 }
 li {
+  padding-bottom: 20px;
   color: white;
+}
+
+.cust_back {
+  width: 23%;
+  position: absolute;
+  top: 130px;
+  right: 0;
+}
+
+.duhh {
+  display: block;
+  padding-left: 18px;
 }

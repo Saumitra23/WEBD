@@ -5,17 +5,18 @@
   display: flex;
   align-items: center;
   background-color: #21222a;
-  border: 1px red solid;
   padding: 30px 20px;
 }
-
+.el_1 {
+  padding-top: 5px;
+}
 .el_2 {
   /* align-self: center;
   font-size: larger;
   color: RGB(1, 206, 243);
   font-weight: bolder; */
 
-  margin-left: 20px;
+  margin-left: 10px;
   width: 122.39px;
   align-self: cente;
   font-family: "Inter";
@@ -23,12 +24,12 @@
   font-weight: 700;
   font-size: 22.2535px;
   line-height: 27px;
-  letter-spacing: -0.05em;
+  /* letter-spacing: -0; */
 
   color: #61dafb;
 }
 .el_3 {
   align-self: center;
   color: white;
-  margin-left: 110px;
+  margin-left: 240px;
 }
