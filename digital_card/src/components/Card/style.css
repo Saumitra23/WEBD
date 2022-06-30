@@ -1,0 +1,9 @@
+.card {
+  display: grid;
+  grid-template-columns: 317px;
+  grid-template-rows: 317px 399px 64px;
+  row-gap: 0px;
+  width: 317px;
+  height: 780px;
+  padding: 44px 116px 44px 117px;
+}

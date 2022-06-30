@@ -1,0 +1,12 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #161619;
+}
+
+.footer img {
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+}

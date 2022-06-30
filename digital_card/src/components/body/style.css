@@ -1,0 +1,78 @@
+.body {
+  width: 317px;
+  height: 399px;
+  background-color: #1a1b21;
+}
+.Name {
+  /* width: 178.06px; */
+  /* height: 25.81px; */
+  padding-top: 21px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+
+  color: #ffffff;
+}
+.des {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8px;
+  line-height: 15px;
+  text-align: center;
+  padding-top: 5px;
+  color: #f3bf99;
+}
+.im_1 {
+  width: 100px;
+  height: 20px;
+  margin-top: 5px;
+  margin-left: 109px;
+}
+.cust {
+  padding-top: 10px;
+  display: flex;
+  /* justify-content: space-around; */
+  gap: 17px;
+  margin-left: 33px;
+}
+.About {
+  margin-left: 36px;
+  padding-top: 30px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 150%;
+  /* or 24px */
+
+  color: #f5f5f5;
+}
+
+p {
+  margin: 5px 36px;
+  /* font-family: "Inter"; */
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  /* or 15px */
+
+  color: #dcdcdc;
+}
+
+.Interests {
+  margin-top: 20px;
+  margin-left: 36px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 150%;
+  /* or 24px */
+
+  color: #f5f5f5;
+}
