@@ -19,7 +19,7 @@ const Body = () => {
       <div className="About">About</div>
       <p>
         I am a Software Engineer at Pentair and a frontend learner who loves to
-        work on niche projects.
+        work on challenging projects.
       </p>
       <div className="Interests">Interests</div>
       <p>Outdoor Sports, Coding, Gaming, Singing.</p>
